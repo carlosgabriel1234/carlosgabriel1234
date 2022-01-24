@@ -18,7 +18,7 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2F2019%2F12%2F03%2Fnoticias%2Fveja-quais-foram-os-gifs-mais-procurados-de-2019%2F&psig=AOvVaw0RD6wjsI5HoYVbaXdeVY__&ust=1643137378401000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDRr_CJy_UCFQAAAAAdAAAAABAj">
 </div>
   
  ##
