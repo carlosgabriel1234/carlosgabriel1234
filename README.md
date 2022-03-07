@@ -33,6 +33,15 @@
  
 </div>
   
+### Ferramentas
+                                                                                                                                      
+<div style="display: inline_block"><br>
+  <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"">
+  <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"                     </div>
+
+  
 ### Dejeso aprender
 
 <div style="display: inline_block"><br>
