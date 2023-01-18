@@ -11,11 +11,6 @@
 
 ###  GITHUB
 
-<div>
-  <a href="https://github.com/carlosgabriel1234?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosgabriel1234&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgabriel1234&layout=compact&langs_count=7&theme=midnight-purple"/></a>
-</div> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
