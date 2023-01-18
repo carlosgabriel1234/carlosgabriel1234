@@ -1,5 +1,5 @@
 ### Olá, meu nome é Carlos Gabriel!
-- 🌱 Atualmente estou aprendendo Javascript, PHP e Kotlin
+- 🌱 Atualmente estou estudando Angular e Java
 - 📫 Meu E-mail: carlosgabriec@gmail.com
 <!--
 **carlosgabriel1234/carlosgabriel1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
